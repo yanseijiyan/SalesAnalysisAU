@@ -20,11 +20,15 @@ Analyze the company’s sales data for the fourth quarter across Australia, and 
   *	Based on your knowledge of Data Analytics, include your recommendations for treating missing data and incorrect data. (dropping the null values or filling them).
   *	Select an appropriate Data Wrangling approach —  data standardization or data normalization. Perform the standardization or normalization and present the data. (Normalization is the preferred approach for this problem.)
   *	Share your recommendation on the usage of the groupby() function for data chunking or merging.
+
+
 2.Data Analysis
   *	Perform descriptive statistical analysis on the data (Sales and Unit columns) (Techniques such as mean, median, mode and standard deviation can be used.). 
   *	Determine which group is generating the highest sales, and which group is generating the lowest sales.
   *	Determine which state is generating the highest sales, and which state is generating the lowest sales.
   *	Generate weekly, monthly and quarterly reports for the analysis made.
+
+
 3.Data Visualization
   *	Use appropriate data visualization libraries to build a dashboard for the Head of S&M that includes for the key parameters like 
   *	State-wise sales analysis for different groups (kids, women, men, and seniors) 
